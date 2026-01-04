@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="ja">
+    <head>
+    <meta charset="utf-8">  
+        <title>課題 暗殺教室</title>
+    </head>
+
+    <body>
+<h1>暗殺教室</h1>
+
+    <h2>暗殺教室とは</h2>
+    <div class="box">
+    <img src="https://m.media-amazon.com/images/I/51bs8pdKngL._AC_UF1000,1000_QL80_.jpg"width="75">
+    <p></p>
+      
+    <a href="index.html">トップへ戻る</a>
+    </body>
+</html>
